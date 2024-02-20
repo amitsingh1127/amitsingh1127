@@ -1,5 +1,7 @@
 # 💫 About Me:
-👨‍🎓 Last year CSE student | 🖥️ Passionate about programming, problem-solving, and software development | 📊 Proficient in Jupyter Notebook, MATLAB, MySQL
+👨‍🎓 Last year CSE student 
+🖥️ Passionate about programming, problem-solving, and software development 
+📊 Proficient in Jupyter Notebook, MATLAB, MySQL
 
 
 ## 🌐 Socials:
