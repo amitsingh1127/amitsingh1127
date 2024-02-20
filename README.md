@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍🎓 Last year CSE student 
-🖥️ Passionate about programming, problem-solving, and software development 
+👨‍🎓 Last year CSE student <br/>
+🖥️ Passionate about programming, problem-solving, and software development <br/>
 📊 Proficient in Jupyter Notebook, MATLAB, MySQL
 
 
